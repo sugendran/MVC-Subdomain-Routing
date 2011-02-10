@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestWebApp", "TestWebApp\TestWebApp.csproj", "{C71EEE22-7411-4BB3-9A4A-183709F515A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcSubdomainRouting", "MvcSubdomainRouting\MvcSubdomainRouting.csproj", "{F61748F9-DB4E-4348-8963-190F4A177DB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C71EEE22-7411-4BB3-9A4A-183709F515A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C71EEE22-7411-4BB3-9A4A-183709F515A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C71EEE22-7411-4BB3-9A4A-183709F515A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C71EEE22-7411-4BB3-9A4A-183709F515A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F61748F9-DB4E-4348-8963-190F4A177DB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F61748F9-DB4E-4348-8963-190F4A177DB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F61748F9-DB4E-4348-8963-190F4A177DB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F61748F9-DB4E-4348-8963-190F4A177DB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

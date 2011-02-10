@@ -1,0 +1,7 @@
+c:\personal\MVC Subdomain Routing\TestWebApp\bin\TestWebApp.dll
+c:\personal\MVC Subdomain Routing\TestWebApp\bin\TestWebApp.pdb
+c:\personal\MVC Subdomain Routing\TestWebApp\obj\Debug\ResolveAssemblyReference.cache
+c:\personal\MVC Subdomain Routing\TestWebApp\obj\Debug\TestWebApp.dll
+c:\personal\MVC Subdomain Routing\TestWebApp\obj\Debug\TestWebApp.pdb
+c:\personal\MVC Subdomain Routing\TestWebApp\bin\MvcSubdomainRouting.dll
+c:\personal\MVC Subdomain Routing\TestWebApp\bin\MvcSubdomainRouting.pdb
